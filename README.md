@@ -1,0 +1,1 @@
+# Extract-all-image-from-doc-file
